@@ -1,0 +1,1 @@
+This repository contains examples of common errors in assembly language programming. The errors demonstrated include out-of-bounds array access, writing to unwritable memory, and jumping to an invalid address.  Solutions are provided for each error.
